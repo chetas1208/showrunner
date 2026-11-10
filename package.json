@@ -29,7 +29,7 @@
   "author": "Chetas P",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chetas-opsera/showrunner.git"
+    "url": "git+https://github.com/chetas1208/showrunner.git"
   },
   "dependencies": {
     "playwright-core": "^1.50.0"

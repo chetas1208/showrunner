@@ -32,7 +32,7 @@ Product demos are usually either a screen recording of you fumbling through the 
 Requirements: **Node 18+** and **Google Chrome** (or any Chromium via `executablePath`). ffmpeg is installed alongside as the optional dependency `ffmpeg-static` (a GPL-3.0-or-later binary that Showrunner runs as a separate program; it is not part of this repository). Or point `FFMPEG` at your own.
 
 ```bash
-git clone https://github.com/chetas-opsera/showrunner.git
+git clone https://github.com/chetas1208/showrunner.git
 cd showrunner
 npm install
 npm run setup       # one time: downloads Playwright's small video encoder
@@ -204,7 +204,7 @@ institutions). **Commercial use requires a separate license.**
 - Fair-use and other statutory rights are not affected.
 
 **Need a commercial license?** Open an issue titled "Commercial license" on this repository, or contact
-[@chetas-opsera](https://github.com/chetas-opsera) on GitHub. Terms are agreed case by case.
+[@chetas1208](https://github.com/chetas1208) on GitHub. Terms are agreed case by case.
 
 **License history.** Commits up to and including `699ffd3` were published under the MIT License, and anyone who
 received those copies keeps the MIT rights to them. Everything after that commit is PolyForm Noncommercial 1.0.0 only.
